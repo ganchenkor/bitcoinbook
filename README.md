@@ -5,6 +5,7 @@ here is how you can read it in nice HTML readable format:
 2)brew install asciidoc
 3)cd bitcoinbook
 4)asciidoc -d book book.asciidoc
+```
 this will generate book.html
 Enjoy!
 
