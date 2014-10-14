@@ -6,7 +6,7 @@ here is how you can read it in nice HTML readable format:
 3)cd bitcoinbook
 4)asciidoc -d book book.asciidoc
 ```
-this will generate book.html
+this will generate [book.html](book.html)
 Enjoy!
 
 # Mastering Bitcoin
