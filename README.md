@@ -1,3 +1,13 @@
+# Fork of git@github.com:aantonop/bitcoinbook.git
+here is how you can read it in nice HTML readable format:
+```
+1)git clone git@github.com:aantonop/bitcoinbook.git
+2)brew install asciidoc
+3)cd bitcoinbook
+4)asciidoc -d book book.asciidoc
+this will generate book.html
+Enjoy!
+
 # Mastering Bitcoin
 
 Mastering Bitcoin is a book for developers, but the first two chapters cover bitcoin at a level that is approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters and get a great understanding of bitcoin. 
